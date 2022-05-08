@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000177067879",
+    "project_id": "ecommerce-course-54692",
+    "storage_bucket": "ecommerce-course-54692.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000177067879:android:943899d90909efe1f9f1c2",
+        "android_client_info": {
+          "package_name": "com.macaulayfamous.flutter_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000177067879-111lscagnt9iqkne35ir9fbg8abtbraa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjZVu3sMnuihISsCT1be2boEGg7XBKEIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000177067879-111lscagnt9iqkne35ir9fbg8abtbraa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
